@@ -1,6 +1,3 @@
-# What's here?
-This repo has the boiler plate code used by candidates applying for Android positions at Launch Consulting Group.
-
 # Introduction
 Be a part of our success story. Launch offers talented and motivated people the opportunity to do the best work of their lives in a dynamic and growing company. Through competitive salaries, outstanding benefits, internal advancement opportunities, and recognized community involvement, you'll have the chance to create a career you can be proud of. Your new trajectory starts here at Launch.
 
